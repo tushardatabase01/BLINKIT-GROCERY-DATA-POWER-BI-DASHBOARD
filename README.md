@@ -99,13 +99,7 @@ Power BI → Dashboard creation, KPIs & interactive visualizations
 
 Excel/CSV Dataset → Data source
 
-🚀 How to Use
 
-Clone this repository.
-
-Open the .pbix file in Power BI Desktop.
-
-Interact with filters (Outlet Type, Size, Item Type) for dynamic insights.
 
 📌 Conclusion
 
